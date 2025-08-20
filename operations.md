@@ -101,10 +101,7 @@ SELECT * FROM Employee ORDER BY Salary DESC;
 
 
 
- Now you have **complete flow**:
-
-* **Create Table** → **Insert** → **Update** → **Delete** → **Select/Filter/Sort**.
-  This is enough to **teach students or demo in SQL**.
+ 
 
 
 
